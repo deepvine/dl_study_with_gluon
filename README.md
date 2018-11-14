@@ -1,1 +1,1 @@
-# gluon-tutorials
+# Deep Learning Study with Gluon
